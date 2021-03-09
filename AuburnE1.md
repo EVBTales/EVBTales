@@ -1,8 +1,8 @@
 [Back](Auburn.md)
 
-## Auburn Episode 1
+# Auburn Episode 1
 
-# Lost
+## Lost
 
   Pinpricks of liquid chill splashed upon your face rouses you from what was once a peaceful darkness. The sound of millions of pounding spheres of water is now 
 impossible to ignore. You cover your face with your arms and roll over, but find freshly turned earth now slick with rain to be what was once your warm bed. 
