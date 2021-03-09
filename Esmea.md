@@ -2,4 +2,4 @@
 
 This is where I will include links to Esmea stories
 
-(Auburn)[Auburn.md]
+[Auburn](Auburn.md)
