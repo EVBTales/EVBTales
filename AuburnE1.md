@@ -1,4 +1,4 @@
-[Back](AuburnSeason1.md)
+[Back](AuburnS1.md)
 
 # Auburn Episode 1
 
