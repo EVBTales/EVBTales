@@ -9,3 +9,5 @@ It is my endeavor that every week I will post another chapter or short story.
 [All Stories](Stories.md)
 
 [Story of the Week](AuburnE1.md)
+
+You can follow me on . . .
