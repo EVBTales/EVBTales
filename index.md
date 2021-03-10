@@ -11,3 +11,7 @@ It is my endeavor that every week I will post another chapter or short story.
 [Story of the Week](AuburnE1.md)
 
 You can follow me on . . .
+
+---
+
+John 3:16
