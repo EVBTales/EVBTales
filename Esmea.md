@@ -2,12 +2,12 @@
 
 # Esmea
 
-[Auburn](Auburn.md)
+[Auburn](Auburn.md) - What happens when a Monster Hunter lose their memory?
 
-One Stop Adventure Shop
+One Stop Adventure Shop - To Come
 
-Briar
+Briar - To Come
 
-Elves and Dwarves
+Elves and Dwarves - To Come
 
 [Extra Pages](EsmeaExtraPages.md)
