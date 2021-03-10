@@ -420,6 +420,6 @@ _Liar!_
 
 _Deceiver!_
 
-## **End of Chapter 1**
+## **End of Episode 1**
 
 [Back](Auburn.md)
