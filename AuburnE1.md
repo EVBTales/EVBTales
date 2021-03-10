@@ -192,6 +192,8 @@ A pillar of smoke rises high into the darkening sky with a shadow passing overhe
 
 . . . 
 
+![Dragon Battle](AuburnDragonBattle.jpg)
+
 The sword feels awkward in your hand as you help the people of the city out of their homes and away into safety. Having no memory of how to actually use a sword, you feel far less helpful than you were hoping to be. While your group is off battling the dragon, you are running around the city making sure the whole city is evacuated.
 
 “My child! My baby is still in there!” yells a terrified parent pointing into the smouldering wreckage of their home. 
@@ -293,6 +295,8 @@ Your group navigates the stalls with ease, obviously knowing where they are goin
 “Yup. Been here for longer than Clolis.” Fable says. “It’s thought that this city wouldn’t be here if not for this business.” 
 
 Your party dismounts and approaches the worn door and Carden gently knocks on the splintering wood. “Amari?” Carden calls. “Amari?” Knocking again, the door creaks open ever so slightly, revealing a dark interior. 
+
+![Monster Part Store](AuburnMonsterPartShopSketch.jpg)
 
 “Something’s up.” Sacha’s eyes narrow. Your group ready their weapons as Carden pushes open the door fully. The only light in the room is that streaming in from the open door and your eyes are slow to adjust to the drastic change of light. 
 
