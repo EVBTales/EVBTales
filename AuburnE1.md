@@ -44,7 +44,7 @@ Their sobs quiet for a moment. “Tell you about what?”
 Carden sniffs and draws closer to you, grabbing your hand. They can’t meet your eyes, but just looks at your hand as they grasp it lightly. “I will, but not right now.” Snif. “We should go, um, go help with the Thunderbird.” Carden lets go of your hand and walks out of the cave. You stand to follow her, but everything swirls around you and your side feels as if it has been split open and you collapse to the cold cave floor. Your breathing becomes labored and difficult, so you can’t call out, but luckily Carden hears you and comes back to your side. They are speaking to you, but you can’t make out their words. Slowly, darkness begins to come in again and you can’t help but return to it.
 
 
-
+---
 
 
 Creaks emanate from below you and your whole body jostles in its prostrate position. You try to open your eyes, but you are far too weak to move. Slowly, you pick up the voices of your group mid conversation. 
@@ -86,7 +86,7 @@ Carden approaches you slightly and in the pale light you can see confusion on th
 Returning to the fire, you sit next to Carden and nibble on the food and find a tangy drink filling the skin. “T-tell me about th-them.” you ask Carden, but looking over, you find they are curled up and back asleep on the hay, so you return to your meal. 
 
 
-
+---
 
 
 Once everyone is awake in the morning, you all continue on the road back down the mountain. Each member has their own horse, including you. This horse, similar to the rest of your group, appears to know you, but you have no memory of this beast. “This is Aspen, your horse of many years. You two have been together since you were both young.” Onyx says, handing you the reins. “You may not remember, but you two are inseparable.” 
@@ -195,7 +195,7 @@ A pillar of smoke rises high into the darkening sky with a shadow passing overhe
 “Do we have a choice?” Carden asks. “Let’s go.” Your speed quickens dramatically as you race towards the city on fire. 
 
 
-
+---
 
 
 ![Dragon Battle](AuburnDragonBattle.jpg)
@@ -293,7 +293,7 @@ As you sit and apply the balm to your burns, Fable begins to speak. “I’m sor
 By the time you decide to stop for the day, you all are exhausted from the day’s events, but happy with the outcome. A quick meal by a warm fire is all you need before a nice long sleep to rest your aching body. 
 
 
-
+---
 
 
 Clolis is not much farther away and your group arrives not long after midday. People dressed for adventure litter the streets, shopping amongst the portable stalls of the venders buying, selling, and trading their wares of all sorts. You see scatterings of many different types of things from weapons to adventuring equipment to precious gems and trinkets. 
