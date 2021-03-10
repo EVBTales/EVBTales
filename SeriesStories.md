@@ -2,12 +2,12 @@
 
 # Series
 
-[Esmea](Esmea.md)
+[Esmea](Esmea.md) - Many stories happen in the world inhabited my Monsters, Humans, Dwarves, and Elves.
 
-Theme Park
+Theme Park - To Come
 
-Machines
+Machines - To Come
 
-Elementals
+Elementals - To Come
 
-Defenders of the Dawn
+Defenders of the Dawn - To Come
