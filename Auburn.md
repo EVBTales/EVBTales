@@ -2,4 +2,8 @@
 
 This is where I will include links to Chapters in Auburn
 
-[Auburn Episode 1](AuburnE1.md)
+[Auburn Season 1](AuburnS1.md)
+
+Auburn Season 2
+
+Auburn Season 3
