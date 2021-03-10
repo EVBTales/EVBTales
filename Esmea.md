@@ -10,4 +10,4 @@ Briar
 
 Elves and Dwarves
 
-Extra Pages
+[Extra Pages](EsmeaExtraPages.md)
