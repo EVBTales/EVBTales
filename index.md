@@ -6,4 +6,6 @@ All of these stories and their characters are created and owned by me. I am also
 
 It is my endeavor that every week I will post another chapter or short story.
 
-[All Stories](Stories.md)      [Story of the Week](AuburnE1.md)
+[All Stories](Stories.md)
+
+[Story of the Week](AuburnE1.md)
