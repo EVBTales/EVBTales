@@ -4,4 +4,7 @@ This is a collection of some of my experimental stories that I would like to sha
 
 It is my endeavor that every week I will post another chapter or short story.
 
-[Stories](Stories.md)
+[All Stories](Stories.md)
+
+
+[Story of the Week](AuburnE1.md)
