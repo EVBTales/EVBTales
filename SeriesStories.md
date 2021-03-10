@@ -1,4 +1,4 @@
-[Back](index.md)
+[Back](Stories.md)
 
 # Series
 
