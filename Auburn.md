@@ -1,6 +1,6 @@
 [Back](Esmea.md)
 
-This is where I will include links to Chapters in Auburn
+# Auburn
 
 [Auburn Season 1](AuburnS1.md)
 
