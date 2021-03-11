@@ -2,7 +2,7 @@
 
 ## Quest
 
-# End of Episode 2
+## **End of Episode 2**
 
 Next Episode -To Come
 
