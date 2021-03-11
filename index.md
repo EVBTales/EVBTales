@@ -14,7 +14,7 @@ I hope you enjoy the content that I am producing and it raises your spirits in t
 
 [All Stories](Stories.md)
 
-You can follow me on . . .
+You can follow me on Twitter @EvbTales
 
 ---
 
