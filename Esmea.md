@@ -1,4 +1,4 @@
-[Back](Stories.md)
+[Back](SeriesStories.md)
 
 # Esmea
 
