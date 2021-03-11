@@ -6,9 +6,9 @@
 
 One Stop Adventure Shop - To Come
 
-Briar - To Come
-
 Fractured - To Come
+
+Briar - To Come
 
 Elves and Dwarves - To Come
 
