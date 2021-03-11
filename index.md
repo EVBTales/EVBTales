@@ -1,3 +1,5 @@
+![Logo](ProfilePic.jpg)
+
 ## Welcome to EVB Tales
 
 I am an aspiring author and this is my collection of experimental stories that I would like to share. In these stories I will attempt to mess with different types of writing and hopefully produce some types of stories you have never read before.
