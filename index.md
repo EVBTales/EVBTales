@@ -8,11 +8,11 @@ It is my endeavor that every week I will post another chapter or short story of 
 
 I hope you enjoy the content that I am producing and it raises your spirits in this tough time.
 
-[All Stories](Stories.md)
-
 [Episode of the Week](AuburnE1.md)
 
 [Spotlight Story](Auburn.md)
+
+[All Stories](Stories.md)
 
 You can follow me on . . .
 
