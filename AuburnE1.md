@@ -8,12 +8,12 @@
 
 Pinpricks of liquid chill splashed upon your face rouses you from what was once a peaceful darkness. The sound of millions of pounding spheres of water is now 
 impossible to ignore. You cover your face with your arms and roll over, but find freshly turned earth now slick with rain to be what was once your warm bed. 
-Finally, you know there is no going back to that peaceful dark place, so you open your eyes. Your vision swirls to the point of nausea and you close your eyes 
+You know there is no going back to that peaceful dark place, so you open your eyes. Your vision swirls to the point of nausea and you close your eyes 
 once more, but the nausea doesn’t fade.
 
 You listen to the patter of the rain, feeling its icy fingertips grasping at your body, feeling almost peaceful for a moment. The ground rumbles deeply followed by a roar as loud as thunder and cries. Shaken and startled, you now sit bolt upright, your vision clearing enough for the nausea to fade. In the distance, through the rain, you can make out four small figures surrounding and attacking one very large figure very near to the edge of a cliff. 
 
-In fear and confusion at your situation, you decide to run in the opposite direction of the battle towards the safety of the mountain caves behind you. As you stumble off on unsteady legs, the hair on the back of your neck stands up and bumps cover your whole body. Pausing in your fleighing, you look up and hovering not far above you is a horrible winged creature alight with jagged glowing strands. “I thought I had killed you, coward.” It rumbles in a low voice. “But you merely play dead so you can flee and abandon your compatriots. Even us which you hunt have more scruples.” The beast opens its beak and a ball of light begins to form. Your heart pounds in your chest as fear overcomes and freezes you still. 
+In fear and confusion at your situation, you decide to run in the opposite direction of the battle towards the safety of the mountain caves behind you. As you stumble off on unsteady legs, the hair on the back of your neck stands up and bumps cover your whole body. Pausing in your fleeing, you look up and hovering not far above you is a horrible winged creature alight with jagged glowing strands. “I thought I had killed you, coward.” It rumbles in a low voice. “But you merely play dead so you can flee and abandon your compatriots. Even us which you hunt have more scruples.” The beast opens its beak and a ball of light begins to form. Your heart pounds in your chest as fear overcomes and freezes you still. 
 
 ![Thunderbird Battle](AuburnThunderbirdBattle.jpg)
 
@@ -41,7 +41,7 @@ Their sobs quiet for a moment. “Tell you about what?”
 
 “U-uss.”
 
-Carden sniffs and draws closer to you, grabbing your hand. They can’t meet your eyes, but just looks at your hand as they grasp it lightly. “I will, but not right now.” Snif. “We should go, um, go help with the Thunderbird.” Carden lets go of your hand and walks out of the cave. You stand to follow her, but everything swirls around you and your side feels as if it has been split open and you collapse to the cold cave floor. Your breathing becomes labored and difficult, so you can’t call out, but luckily Carden hears you and comes back to your side. They are speaking to you, but you can’t make out their words. Slowly, darkness begins to come in again and you can’t help but return to it.
+Carden sniffs and draws closer to you, grabbing your hand. They can’t meet your eyes, but just looks at your hand as they grasp it lightly. “I will, but not right now.” Sniff. “We should go, um, go help with the Thunderbird.” Carden lets go of your hand and walks out of the cave. You stand to follow her, but everything swirls around you and your side feels as if it has been split open and you collapse to the cold cave floor. Your breathing becomes labored and difficult, so you can’t call out, but luckily Carden hears you and comes back to your side. They are speaking to you, but you can’t make out their words. Slowly, darkness begins to come in again and you can’t help but return to it.
 
 
 ---
@@ -111,13 +111,13 @@ You nod. Gently, Onyx holds the horse while you attempt to get on, but as you tr
 
 “I g-guess so.” You two share another laugh. “A-and now y-you are m-married.” 
 
-“That I am. You were instrumental in that. I would never have met Sacha if you hadn’t given me the courage to go have a conversation. That was five years ago now. We have been married for three. And now you are with Carden . You two met a good three years ago when we invited Carden  to be on our team. No good monster hunter ever works on their own, so we got them to join. You guys started going together about a year ago.” You nod your understanding as you process all this. So many important relationships and memories you have just forgotten and now dropped back in the middle of. 
+“That I am. You were instrumental in that. I would never have met Sacha if you hadn’t given me the courage to go have a conversation. That was five years ago now. We have been married for three. And now you are with Carden . You two met a good three years ago when we invited Carden to be on our team. No good monster hunter ever works on their own, so we got them to join. You guys started going together about a year ago.” You nod your understanding as you process all this. So many important relationships and memories you have just forgotten and are now dropped back in the middle of. 
 
 The ride is slow, but is filled with happy banter between your group mates. You happily listen to funny jokes at other’s expense and retelling of past battles against monsters from previous journeys together. While you don’t remember this group or the life you have had with them, you find yourself truly enjoying the companionship that so obviously dwells between each member of the group. The only one not really contributing or speaking is Onyx who rides alongside, listening and chuckling every once in a while. 
 
-Your group arrives in a small village at the base of the mountain near sunset and are met with cheers and praise. An old man waddles towards your group leaning heavily on a twisted staff with happiness in his tired old eyes. Carden dismounts and fetches the head of the Thunderbird from the bed of the wagon and presents it to the old man. “Well done, heroes.” he cries. “You have saved our village from starvation. We will feast in your honor.” 
+Your group arrives in a small village at the base of the mountain near sunset and are met with cheers and praise. An elder waddles towards your group leaning heavily on a twisted staff with happiness in their tired old eyes. Carden dismounts and fetches the head of the Thunderbird from the bed of the wagon and presents it to the elder. “Well done, heroes.” they cry. “You have saved our village from starvation. We will feast in your honor.” 
 
-“We are honored.” Carden hands off the head to one of the officials standing nearby and follows the old man as the rest of us dismount and follow behind. The feast is filled with modest but plentiful food and the mood is light and fun. The villagers play music for you and you dance well into the night. Nearing the end, Carden pulls you aside where you two could speak in private. 
+“We are honored.” Carden hands off the head to one of the officials standing nearby and follows the elder as the rest of us dismount and follow behind. The feast is filled with modest but plentiful food and the mood is light and fun. The villagers play music for you and you dance well into the night. Nearing the end, Carden pulls you aside where you two could speak in private. 
 
 “I know we have both been through a lot on this last trip, and I know you may not understand right now, but I think I will need to take a break from us for a little while. Even before your memory loss, we were having some problems, and I’m not sure I can handle setting up this whole relationship again. I will stay in the group for now, but I don’t want to date you, at least for a while.”
 
@@ -127,7 +127,7 @@ Not far from the village you find a small lake surrounded by some large and anci
 
 “I d-didn’t do much t-talking.” you say, more matter of factly than with spite. 
 
-“Are you okay?” You let the question hang in the air for quite a while, unsure of how to answer it. “I guess that is a hard question to answer right now, isn’t it?” Fable leans back with hands in the dirt and begins humming one of the most recent tunes the villagers had played for us. 
+“Are you okay?” You let the question hang in the air for quite a while, unsure of how to answer it. “I guess that is a hard question to answer right now, isn’t it?” Fable leans back with hands in the dirt and begins humming one of the most recent tunes the villagers had played for you. 
 
 “W-what do we do n-next?” 
 
@@ -168,6 +168,7 @@ Looking around you, you notice for the first time that you have no weapon on you
 Everyone except Carden looks at you and similarly notice the absence of a weapon. “Yeah, you had a sword which you had won from defeating a griffin on our first mission.” Fable notes. 
 
 “It shattered and went over the cliff when you got hit.” Carden says with a monotone voice. “Sorry.” You get a slight glance back, but nothing more. 
+
 “Well then, I guess we need to get you a new weapon then.” Fable huffs. “That was a beautiful sword. Too bad. For now there is your old one in the wagon. No saying how sharp it is though.” Carefully, you turn around in the seat and begin looking through the wagon until you find a simple, dull, broadsword. 
 
 “This one?” 
@@ -188,7 +189,7 @@ With weapon in hand, you return to your seat and look over the sword in the bett
 
 Then your group passes into uncomfortable silence once more. The day passes a lot more slowly than the day before. Without the conversations, there is little to distract yourself with. The scenery which was once interesting now appears the same mile after mile. Nearing nightfall, Onyx notices something on the horizon. “What’s that?” 
 
-A pillar of smoke rises high into the darkening sky with a shadow passing overhead. 
+A pillar of smoke rises high into the afternoon sky with a shadow passing overhead. 
 
 “Looks like another dragon attack.” Sacha says. “Are we up to helping?” 
 
@@ -210,7 +211,7 @@ By the time the last of the people are out, you have helped at least three peopl
 
 As you are steeling your courage to join the battle, something catches your eye amongst the rubble. Digging through some more hot embers, you find what appears to be an egg encrusted with gold and jewels. This is why the dragon is attacking the city. Someone took its egg. You heft up the heavy weight of the egg and begin towards the battle as fast as you can. As the dragon notices you and sees the egg, it leaves the battle and starts towards you. You set down the egg and begin running the opposite direction, unsure of how the dragon will react. 
 
-The dragon reaches the egg and gently nudges it with its muzzle. Seemingly satisfied that it is okay, it looks up at you and nods its head. “Thank you, friend.” It then picks up the egg in its mouth and laboriously takes to the air and disappears into the distance. 
+The dragon reaches the egg and gently nudges it with its muzzle. Seemingly satisfied that it is okay, it looks up at you and nods its head. “Thank you, Mirza.” It then picks up the egg in its mouth and laboriously takes to the air and disappears into the distance. 
 
 “What did you do that for? We almost had it! Do you know how many rare parts are in a dragon?” Fable yells at you. 
 
@@ -218,11 +219,11 @@ The dragon reaches the egg and gently nudges it with its muzzle. Seemingly satis
 
 “Fable!” Sacha rebukes as the group approaches. “Rowen just saved us.”
 
-“And we didn’t have to kill it.” Carden  includes. 
+“And we didn’t have to kill it.” Carden includes. 
 
 “We came here to protect this city, not get a bigger payday.” Onyx includes. 
 
-Fable, still in a radge with no validation, huffs off and begins pacing a ways away from us. “Give Fable some time to cool off. Fable didn’t mean it.” Sacha apologies before following Fable. 
+Fable, still in a rage with no validation, huffs off and begins pacing a ways away from us. “Give Fable some time to cool off. Fable didn’t mean it.” Sacha apologies before following Fable. 
 
 “Good job finding that egg.” Onyx pats you on the shoulder before heading back towards the city. Carden looks at you, but says nothing and follows Onyx, leaving you alone. Watching your group walk away, a group of citizens approach them and start having what looks like an intense conversation. The citizens are obviously upset. 
 
@@ -234,13 +235,13 @@ Laying back, you let your ears submerge into the water, muffling your hearing, a
 
 When your fingers begin to prune, and the rumble in your stomach becomes unbearable, you rise from your rest and return to your wagon with shoes and sword in hand. “Where have you been?” Carden yells at you. “We have been waiting for over an hour and you have been off swimming?” Getting up in your face, you can tell just how upset Carden is. 
 
-“Hey, relax, Carden .” Sacha gets between the two of you. “Look.” Sacha points to your hands and legs and all notice the severe burns which plague your skin. 
+“Hey, relax, Carden.” Sacha gets between the two of you. “Look.” Sacha points to your hands and legs and all notice the severe burns which plague your skin. 
 
 “I-I’m sorry. L-let's get going.” You push past Carden and gently climb up to onto the cart, ready to go.
 
-“Carden, a word.” Sacha growls and grabs Carden’s arm to walk a little ways away. The two of them have a heated conversation out of hearing range while the three of you prepare to leave. You decide to grab a small meal while you wait
+“Carden, a word.” Sacha growls and grabs Carden’s arm to walk a little ways away. The two of them have a heated conversation out of hearing range while the three of you prepare to leave. You decide to grab a small meal while you wait.
 
-“I hope you get your memory back soon, Rowen, or I think Carden  is going to leave.” Fable mumbles to you. 
+“I hope you get your memory back soon, Rowen, or I think Carden is going to leave.” Fable mumbles to you. 
 
 “Carden has been unstable for a while now and needs to do a little clean up. Maybe taking a break for a little while would be good.” Onyx offers. “We have enough money to hold over for a good few months.”
 
@@ -248,19 +249,19 @@ When your fingers begin to prune, and the rumble in your stomach becomes unbeara
 
 “O-other groups?” you ask
 
-“Yeah. You didn’t think we were the only one doing this, did you? Of course, we are the only ones that don’t charge a crazy fee. That also means we are working more for small villages and cities than for Kings who offer large rewards.” Onyx explains. “We don’t have the credibility yet to be well known amongst many upper tier individuals, but we are well known by cities and villages.”
+“Yeah. You didn’t think we were the only ones doing this, did you? Of course, we are the only ones that don’t charge a crazy fee. That also means we are working more for small villages and cities than for Crowned Tatum who offers large rewards.” Onyx explains. “We don’t have the credibility yet to be well known amongst many upper tier individuals, but we are well known by cities and villages.”
 
-Sacha and Carden  return, Carden obviously brought down a few pegs. All is silent for an awkward moment before Sacha nudges Carden forward. “Rowen, can I talk with you?” 
+Sacha and Carden return, Carden obviously brought down a few pegs. All is silent for an awkward moment before Sacha nudges Carden forward. “Rowen, can I talk with you?” 
 
 “S-sure.” you respond, but you stay sitting up on the bench of the wagon. 
 
 “Just the two of us.” Carden adds. 
 
-You look to Sacha standing behind Carden and they nod in encouragement. Slipping down from the bench you walk a little ways off, Carden  following along behind you. “Look, I’m sorry.” Carden starts once we are a suitable distance away without looking into your eyes. “I’m confused and angry and I’m taking it out on you. You don’t even remember what happened and that isn’t fair to you.”
+You look to Sacha standing behind Carden and they nod in encouragement. Slipping down from the bench you walk a little ways off, Carden following along behind you. “Look, I’m sorry.” Carden starts once we are a suitable distance away without looking into your eyes. “I’m confused and angry and I’m taking it out on you. You don’t even remember what happened and that isn’t fair to you.”
 
 “I-I don’t know w-what I did t-to upset you, b-but I don’t want you t-to be m-mad at me. W-what did I do t-to hurt you?”
 
-Carden looks up at you for the first time with a little confusion in their eyes. “You really want to listen to me talk about all of this?” You nod slightly. Carden  takes a moment to collect the thoughts they mean to express, eyes down at the ground once more. “We loved each other, but we had our problems. You were always so focused on becoming a monster hunter of great renown. You were so focused on your goal that sometimes I would get forgotten and tossed to the side. I would become just another member of the group instead of someone you loved. I had my own problems too. I’ve always had questions about becoming a monster hunter. I always felt there had to be another way besides just killing. With it never coming into question in your mind and always being questioned by mine, we often fought about all of this. It was rather refreshing to see you solve a problem other than with killing. Maybe we can start over and if you can be different, so can I.” Carden looks back up to you. “Part of why I have been angry has also been that I really do still love you, even if you don’t love me.”
+Carden looks up at you for the first time with a little confusion in their eyes. “You really want to listen to me talk about all of this?” You nod slightly. Carden takes a moment to collect the thoughts they mean to express, eyes down at the ground once more. “We loved each other, but we had our problems. You were always so focused on becoming a monster hunter of great renown. You were so focused on your goal that sometimes I would get forgotten and tossed to the side. I would become just another member of the group instead of someone you loved. I had my own problems too. I’ve always had questions about becoming a monster hunter. I always felt there had to be another way besides just killing. With it never coming into question in your mind and always being questioned by mine, we often fought about all of this. It was rather refreshing to see you solve a problem other than with killing. Maybe we can start over and if you can be different, so can I.” Carden looks back up to you. “Part of why I have been angry has also been that I really do still love you, even if you don’t love me.”
 
 You let this little speech pour over you and sink in. “I-I want to t-try again.” Carden smiles at you and grabs your hand. 
 
@@ -290,7 +291,7 @@ As you sit and apply the balm to your burns, Fable begins to speak. “I’m sor
 
 “D-don’t worry about it.” You smile at Fable and reassure that you have taken none of it personally. 
 
-By the time you decide to stop for the day, you all are exhausted from the day’s events, but happy with the outcome. A quick meal by a warm fire is all you need before a nice long sleep to rest your aching body. 
+By the time you decide to stop for the day, you all are exhausted from the day’s events, but happy with the outcome. A quick meal by a warm fire and a quick check of your wounds and bandages is all you need before a nice long sleep to rest your aching body. 
 
 
 ---
@@ -298,7 +299,7 @@ By the time you decide to stop for the day, you all are exhausted from the day�
 
 Clolis is not much farther away and your group arrives not long after midday. People dressed for adventure litter the streets, shopping amongst the portable stalls of the venders buying, selling, and trading their wares of all sorts. You see scatterings of many different types of things from weapons to adventuring equipment to precious gems and trinkets. 
 
-Your group navigates the stalls with ease, obviously knowing where they are going having been there many times. Just beyond the market place amongst the built structures of homes and city buildings is a small business with a worn door and cracked brick. “Th-this is the m-monster part buyer?” 
+Your group navigates the stalls with ease, obviously knowing where they are going having been there many times. Just beyond the market place and the built structures of homes and city buildings is a small business with a worn door and cracked brick. “Th-this is the m-monster part buyer?” 
 
 “Yup. Been here for longer than Clolis.” Fable says. “It’s thought that this city wouldn’t be here if not for this business.” 
 
@@ -316,7 +317,7 @@ Everyone stops and for just a moment, the creaking continues before also pausing
 
 “Follow me.” Carden whispers and begins leading the way towards the back of the shop where the buyer’s desk would be. As your group approaches, you feel as if something is playing tricks with your vision, like the wall around the desk has shattered in the darkness of the shop. It isn’t until you are very close to the desk that you realize what your vision couldn’t make sense of: a giant black web.
 
-“Djieien!” Sacha whispers in panic. “We have to get out of here.” 
+“Djieien!” Fable whispers in panic. “We have to get out of here.” 
 
 As the group turns to leave, the door slams shut, sending all of you into darkness. Despite the stillness of your group in their fear, the creaking of wood continues, and approaches. Hissing and clicking begin as you feel the presence of Djieien come near, anger and pain radiating over you. 
 
@@ -332,7 +333,7 @@ As the group turns to leave, the door slams shut, sending all of you into darkne
 
 “S-saying ‘heart’.” 
 
-“It’s heart!” Onyx whispers excitedly. “The Djieien hides its heart. Someone must have found it and sold it to Amari.”
+“It’s heart!” Fable whispers excitedly. “The Djieien hides its heart. Someone must have found it and sold it to Amari.”
 
 “So we need to find its heart?” Sacha asks. “If it’s here, Amari would have kept it somewhere safe with how valuable that is.” 
 
@@ -344,13 +345,13 @@ The creaking stops as does the chanting of “Hhhhhhhhhheaaaaaaart.”
 
 The creaking starts again with an increased pace, the pattering of many feet now audible over the creaking. “Duck!” Everyone drops to the floor with a thud and a large crash emanates behind you where the desk had been. You can’t even see your hand in the pitch blackness. The Djieien squeals in anger and pain and charges again. The group separates and you dodge alone into one of the aisles of shelving. You can hear thudding and stumbling as well as cries and more squeals behind you as your group begins battling the monster in the thick darkness. 
 
-Amari would have kept it somewhere safe . . . Using your hands, you find the edge of the shelf and stumble your way back to the desk. The remains are now large splinters of wood, sharp and heavy. You take another step forward and notice that there is no creak here, despite the heavy load atop of it. Letting your hands come to rest on the weathered floor, and find a small gap between the wood panels that create a square in the floor. Letting your fingers wander in, the whole panel gives way, opening to more dark space beneath. 
+_Amari would have kept it somewhere safe . . ._ Using your hands, you find the edge of the shelf and stumble your way back to the desk. The remains are now large splinters of wood, sharp and heavy. You take another step forward and notice that there is no creak here, despite the heavy load atop of it. Letting your hands come to rest on the weathered floor, and find a small gap between the wood panels that create a square in the floor. Letting your fingers wander in, the whole panel gives way, opening to more dark space beneath. 
 
 A large crash pauses the scuffling and a large section of the wall is collapsed as the monster is thrown into it. Bright light streams into the dark interior. As the monster stands, you get a good look at what your group has been battling: a spider as tall as any man with pinchers like spears protruding from its eye-covered face. The monster hisses and rushes back into the safety of the darkness. With a little light reaching your new discovery, you find that before you is a small cache filled with odds and ends, mainly more jars, dried monster parts, and some money. 
 
 Carden is hit by a hairy leg and hits the wall before crumpling to the ground and not moving. You frantically start searching the cache for the heart, looking through each of the jars to try and determine what it is you are looking at. Fable is similarly hit and a loud snap of a bone echoes through the air. Your hands shake violently and you almost drop the final jar you pull from the cache. 
 
-The cold glass chills your hands pleasantly, but ever so subtly you can feel continuous twitches one after another. Twitch, twitch. Twitch, twitch. Looking up, you see both Onyx and Sacha being entombed under a cascade of wooden shelves and monster parts, neither of them moving. Taking a deep breath, you push yourself up, jar in hand and stand between your fallen friends and the darkness beyond where the Djieien lurks. 
+The cold glass chills your hands pleasantly, but ever so subtly you can feel continuous twitches one after another. _Twitch, twitch. Twitch, twitch._ Looking up, you see both Onyx and Sacha being entombed under a cascade of wooden shelves and monster parts, neither of them moving. Taking a deep breath, you push yourself up, jar in hand and stand between your fallen friends and the darkness beyond where the Djieien lurks. 
 
 Your heart pounds quickly in your chest, making it hard to breath and think. “D-Djieien.” You stutter uncertainly. The reflection of each of its many eyes appear just within the darkness. “I-I have found your heart. I-It was t-taken from you and s-sold. I-I wish to return it, b-but you m-must let me and m-my friends go. W-we don’t w-wish to hurt you.”
 
@@ -364,7 +365,7 @@ Sacha and Onyx are the first to rouse. Still in the mind of the battle, both spr
 
 “Do you remember anything?” Sacha asks you directly. With a moment of hesitation, you shake your head. “Weird. The Djieien must have found its heart and left.” 
 
-“F-fable’s leg is b-broken.” You indicate to Sacha, who immediately goes to take a look at the break. 
+“F-fable’s arm is b-broken.” You indicate to Sacha, who immediately goes to take a look at the break. 
 
 “Rowen, get the healing kit!” Sacha yells. As fast as you can, you make it to the horses and retrieve what looks like a bundle of herbs and return. Returning, you find both Sacha and Onyx trying to rouse Carden to no success. “Both seem to be under the effects of the Djieien’s poison.” Sacha despairs. “I don’t know what cures it.” 
 
@@ -372,11 +373,11 @@ Sacha and Onyx are the first to rouse. Still in the mind of the battle, both spr
 
 “Rowen, what do we do?” Tears roll down Sacha’s face, hands tight around Fable’s. 
 
-“I-I don’t know.” Both Fable and Carden begin to turn pail, their breathing shallow and quick as the poison takes hold of them. 
+“I-I don’t know.” Both Fable and Carden begin to turn pale, their breathing shallow and quick as the poison takes hold of them. 
 
 “Rowen!” Onyx calls from inside. “I found something. Come and help me.” 
 
-Standing quickly, you find Onyx in a dark corner of the shop. “I found Amari.” Onyx says, voice solemn. Held tightly to the wall is a chrysalis of spider web, blackened to the point you can’t tell what is inside beyond tiny glances. “But look.” Onyx points to where Amari’s hand would be. “I think that’s a Holy Peach. If it is, it would heal both of them.
+Standing quickly, you find Onyx in a dark corner of the shop. “I found Amari.” Onyx says, voice solemn. Held tightly to the wall is a chrysalis of spider web, blackened to the point you can’t tell what is inside beyond tiny glimpses. “But look.” Onyx points to where Amari’s hand would be. “I think that’s a Holy Peach. If it is, it would heal both of them.
 
 “L-let’s get it…” You reach out your hand, but Onyx stops you. 
 
@@ -390,7 +391,7 @@ Looking around, Onyx finds a small knife amongst the odds and ends and carefully
 
 “I don’t know, but we have to try.” The two of your return to Sacha weeping over Fable. 
 
-“Neither have heartbeats.” Sacha gets out through sobs. “They’re gone.” Onyx takes the peach and cuts it in half before cramming half into the mouths of both Fable and Carden. You watch both intently for signs of life. Carden is so pale, brow furrowed it discomfort despite being dead. A full, excruciating minute passes where the three of you desperately cling to hope, watching the pale, unmoving faces. 
+“Neither have heartbeats.” Sacha gets out through sobs. “They’re gone.” Onyx takes the peach and cuts it in half before cramming half into the mouths of both Fable and Carden. You watch both intently for signs of life. Carden is so pale, brow furrowed in discomfort despite being dead. A full, excruciating minute passes where the three of you desperately cling to hope, watching the pale, unmoving faces. 
 
 Nothing happens. 
 
