@@ -2,7 +2,7 @@
 
 # Esmea
 
-[Auburn](Auburn.md) - What happens when a Monster Hunter lose their memory?
+[Auburn](Auburn.md) - What happens when a Monster Hunter loses their memory?
 
 One Stop Adventure Shop - To Come
 
