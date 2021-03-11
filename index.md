@@ -18,4 +18,4 @@ You can follow me on . . .
 
 ---
 
-John 3:16
+Heb. 12:1-17
