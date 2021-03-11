@@ -10,7 +10,9 @@ I hope you enjoy the content that I am producing and it raises your spirits in t
 
 [All Stories](Stories.md)
 
-[Story of the Week](AuburnE1.md)
+[Episode of the Week](AuburnE1.md)
+
+[Spotlight Story](Auburn.md)
 
 You can follow me on . . .
 
