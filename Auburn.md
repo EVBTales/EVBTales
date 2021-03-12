@@ -1,7 +1,6 @@
 [Back](Esmea.md)
 
 # Auburn
-
 ![AuburnCover](AuburnCover.jpg)
 
 [Auburn Season 1](AuburnS1.md)
