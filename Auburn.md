@@ -2,6 +2,8 @@
 
 # Auburn
 
+![AuburnCover](AuburnCover.jpg)
+
 [Auburn Season 1](AuburnS1.md)
 
 Auburn Season 2 - To Come
