@@ -16,7 +16,7 @@ I hope you enjoy the content that I am producing and it raises your spirits in t
 
 [All Stories](Stories.md)
 
-You can follow me on Twitter and Facebook.
+You can follow me on Twitter and Facebook or you can also find these same works on Wattpad.
 
 ---
 
