@@ -15,7 +15,7 @@ You listen to the patter of the rain, feeling its icy fingertips grasping at you
 
 In fear and confusion at your situation, you decide to run in the opposite direction of the battle towards the safety of the mountain caves behind you. As you stumble off on unsteady legs, the hair on the back of your neck stands up and bumps cover your whole body. Pausing in your fleeing, you look up and hovering not far above you is a horrible winged creature alight with jagged glowing strands. “I thought I had killed you, coward.” It rumbles in a low voice. “But you merely play dead so you can flee and abandon your compatriots. Even us which you hunt have more scruples.” The beast opens its beak and a ball of light begins to form. Your heart pounds in your chest as fear overcomes and freezes you still. 
 
-**Picture Here**
+![Thunderbird Battle](AuburnThunderbirdBattle.jpg)
 
 “Duck!” Behind you, one of the figures that had been fighting the other large beast is now racing to your aide, swinging a large metal chain above their head. You hit the ground just as they let loose the chain and it just barely misses your head. The chain whips through the air and wraps itself around the torso of the lightning bird floating above you. What sounds like a roar emanates from its beak as the ball of light fades and the strands of lightning surrounding it now are sparking against the metal chain.
 
