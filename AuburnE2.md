@@ -26,6 +26,8 @@ With the feelings faded, you tuck the sword under your arm and continue looking 
 
 Just down the hill, you see your four friends standing around a pyer, the smoke rising into the air with the sun setting in the far off horizon. You bow your head, feeling the sadness radiating off of your friends and find yourself wishing you could remember anything from your life before. Racking your brain, you try as hard as you can to find some answers, but still nothing comes. It isn’t even like you are trying to grasp something just beyond your reach, but as if there isn’t anything there at all. 
 
+![Amari'sFuneral](Amari'sFuneral.jpg)
+
 Returning to the shop, you enter the back room where you think Amari must have spent a lot of time. Sketches of different monsters line the walls with a small bed in the back corner and some other chests just below the sketches. On the small table next to the bed sits a note, slightly crumpled, but still readable. The letters are foreign to you, but you pick it up to bring to your friends. They might like to see it. 
 
 Going through the chests, you find some of Amari’s most prized possessions. A child’s blanket wrapped around two pewter rings is covered in dust in the very bottom of the smallest chest. Gingerly, you pick up the blanket and rings and bring your findings out and down to your friends. 
@@ -58,7 +60,7 @@ Carden looks at you. “I’m glad to hear your speech is clearing up.” Carden
 
 Finally pulling apart, Carden collects the small pile from the ground and takes it back down to the wagon. You watch Carden go before turning and following the rest of the group into the store. They have already started going through the store and setting a pile on the floor of bits and pieces you don’t recognize, but the thought that these parts were once monsters makes you shiver a little. 
 
-You settle down against the wall, watching your friends thoughtfully choosing what to pull from the shelves. These aren’t your friends. You don’t even know them. You shake your head, trying to ignore the voice. 
+You settle down against the wall, watching your friends thoughtfully choosing what to pull from the shelves. _These aren’t your friends. You don’t even know them._ You shake your head, trying to ignore the voice. 
 
 Carden comes in toting some food to pass around for your evening meal. “We are going to need to get some more provisions soon. We will only have another meal or two before we are out of food. We can use the money we found here.” 
 
@@ -73,7 +75,7 @@ The group comes around and silently eats the food they have. As the night wares 
 “We aren’t in this for notoriety. We are doing this to help people. When a clan starts getting more attention, the smaller and poorer villages are the ones who pay for it. We are one of the few clans that actually respond to the outer villages.” Fable argues, turning to you. “We started this clan to help people who can’t help themselves. We take the quests others won’t, the quests that have little reward because the people asking for help have little to give. To gain the notoriety that Carden is speaking of, we would have to ignore their pleas for help and go after the quests involving the large powers that be who have dozens of clans to pander to them and squabble for their dangling scraps.” 
 The rest of the group grows quiet as the moon casts its pale glow, washing out the land. “We should get some sleep.” Sacha sighs. “We will start out early tomorrow. We should be able to reach Nasall by noon if we leave early enough.” Everyone settles down for the night, but your mind can’t rest. 
 
-Thief! Monster! Lier! Betrayer! Over and over, the voice you heard before chants horrible names, keeping you up, causing your head to pound. You toss on your uncomfortable blanket feeling a chill that sends shivers up and down your arms. 
+_Thief! Monster! Lier! Betrayer!_ Over and over, the voice you heard before chants horrible names, keeping you up, causing your head to pound. You toss on your uncomfortable blanket feeling a chill that sends shivers up and down your arms. 
 
 The hours drag on and sleep still evades you. The fire has died down and the others are snoring lightly in the early morning hours. You sigh and sit up from your blankets, rubbing your face and eyes in a desperate attempt to quiet the consistent voice in your head. 
 
@@ -153,7 +155,7 @@ Everyone agrees to pretend to ignore them and hope for the best. As your clan ap
 “I don’t owe you anything.” You respond in your most evenly toned voice as possible, though your voice cracks a little near the end.
 Kieren and the whole Fallendawn clan laugh at you. “I challenge you, Rowen Hart, to a Steinar.” Everyone gasps, including the other clan. One of the members of the other clan runs up to Kieren and tries to rescind the challenge. “No, it is the only way and it is going to happen now.” Kieren growls at the clanmate who then retreats back. Kieren turns back to you. “So, Rowen, do you accept my challenge?” 
 
-You glance at your friends, each of them giving a different response. “Fine, if to do nothing more than to teach you a lesson.” You carefully and a little clumsily get off Aspen and walk up to Kieren, a little unsure what will happen next. “You know the rules. First one to kneel is the vanquished.” You nod as if you know what is going to happen next. Kieren turns and walks back to the small camp and prepares for whatever will come next. You better not get killed for this. The voice grumbles in your head as you return to your team to try and find out what is going on. 
+You glance at your friends, each of them giving a different response. “Fine, if to do nothing more than to teach you a lesson.” You carefully and a little clumsily get off Aspen and walk up to Kieren, a little unsure what will happen next. “You know the rules. First one to kneel is the vanquished.” You nod as if you know what is going to happen next. Kieren turns and walks back to the small camp and prepares for whatever will come next. _You better not get killed for this._ The voice grumbles in your head as you return to your team to try and find out what is going on. 
 
 “What did you do that for?” Carden smacks you on the arm. 
 
