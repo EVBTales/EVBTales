@@ -4,7 +4,7 @@
 
 [Episode 1](AuburnE1.md) - 3/9/2021
 
-Episode 2 - 3/16/2021
+[Episode 2](AuburnE2.md) - 3/16/2021
 
 Episode 3 - 3/23/2021
 
