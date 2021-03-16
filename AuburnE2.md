@@ -1,3 +1,5 @@
+[Back](AuburnS1.md)
+
 # Auburn Episode 2
 
 ## Quest
