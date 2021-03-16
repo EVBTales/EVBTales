@@ -225,12 +225,13 @@ Silently, tendrils of grasping mist begin billowing into the clearing from among
 
 Your heart beat and excited breaths are all you can hear in the cold clearing. You back away from the monstrous form, leaving a trail in the mist heavy on the floor, your hot breath leaving as steam from your mouth. “What do you want?” You ask in a shaky voice, both your hands grasping the sword uncomfortably. The monster just continues to stare at you with its hollow eyes. “Have you been doing all of those things to the village?” With some rough grinding and clicking, the head of the monster nods its bare scull. “Why?” The skeleton does nothing. “Are you going to hurt me too?” Some grinding and clicks and it shakes no. 
 
+![ShadowCentaur](ShadowCentaur.jpg)
+
 You can feel yourself relax a little as you continue to try and make sense of what is standing before you. “What are you?” The skeleton steps towards you and turns to the side so you can see its profile. This is not a human skeleton, but a human torso on the body of a four legged creature. “You are a centaur.” You mumble more to yourself. “Are all centaurs just bones?” The skeleton shakes no. “So something happened to you.” The centaur skeleton lays down in the mist before once again sitting as still as a statue. “Did you steal the children from the village?” Its head drops, but slowly nods. “This is your punishment?” Another nod. “The monks did this to you?” Nod. You slump down beside the centaur skeleton. “If the monks can end this punishment, would you leave them alone?” The centaur’s head perks up and looks to you before nodding almost happily. “Is it just you left?” Nod. 
 
 You sit a moment longer then stand, looking down into the skeleton’s face. “I will go talk to the monks and see what they say. I will try to convince them to release you.” The centaur performs a little bow to you before you set off at a quick pace back towards your friends and the monks. 
 
 ---
-
 
 “So you followed weird tracks into the forest without telling anybody?” Carden asks in almost a yell. “Are you really that stupid?”
 	
@@ -322,8 +323,9 @@ Eventually, you are able to find your voice, even if it is shaky. “The monks w
 
 The skeleton suddenly shifts and turns to walk off into the woods. You are unsure whether to follow the strange creature, but when it stops and looks back at you, you know it is waiting for you to follow. The centaur moves quickly through the trees and you struggle to keep up, following the sound of its clicking and scraping bones, catching glimpses of the strange body in the snippets of moonlight that peek through the canopy. 
 
-
 This forest must be a lot bigger than it appears looking in, because the centaur leads you well away from the farm and what appears to be the heart of the trees. It leads you to a clearing much larger than the one you found before and in the center is a large statue of an old monk, head bowed, draped in actual light blue cloth that flows in a nonexistent wind. The moonlight washes out all color from the stone, casting the face in shadow. “Is this the one that cursed you? Is this Remington?” You ask. The creature just stares at the statue. 
+
+![RemingtonStatue](RemingtonStatue.jpg)
 
 Approaching the statue, you examine it closer. You can tell the face would look wise and peaceful if not for the harsh shadows that make it appear mysterious and secretive. You try to grasp the cloth, but you can’t seem to catch it in your hand. Every time your fingers clasp to the cloth, it passes through your hand like water vapor. This has to be the magic linking the curse to the centaur. 
 
@@ -347,10 +349,11 @@ _You failure! You can’t even destroy a monster right! Forget any hope you have
 
 ---
 
-
 The next thing you know, bright light is shining down upon you. Opening your eyes, you take stock of the scene around you and try to remember what happened here. You are sitting at the bottom of a deep pit with the sun streaming in from above. A pedestal sits in the middle of the room without anything up on it. On the hard floor, you notice broken shards of something, but you can’t tell what it might have been. While all of this seems vaguely familiar, you can’t bring to mind how you got there to begin with. You push yourself to stand and find that this pit has an exit made from excavated dirt. Picking up your sword from the ground, you begin to make your way through the tunnels, feeling your way through the darkness.
 
 After many twists and turns, you emerge into an earthen staircase leading up into a clearing within the forest with a decayed statue in the center. Upon seeing the statue, immediately your memory returns and you look around for the centaur, but there appears to be no sign of it. Was it released when you dropped the sphere, or did it just flee? You look around, yet find no hint of hoofprints, but you do find at the edge of the pit you had collapsed in, a small crystal flower. You pick it up and admire its beauty in the sunlight, beautifully colored, yet translucent enough to make out what is beyond. 
+
+![CrystalFlower](CrystalFlower.jpg)
 
 After a moment of contemplating its beauty, you realise that your friends must be worried about you, given that you disappeared in the night and have yet to return. Wondering if you can find your way out of the forest, you walk back to the front of Remington’s statue where you knew you entered the clearing. With a deep breath, you enter the forest, trying your best to keep to a straight line, but it is difficult with all of the trees that all look the same. 
 
