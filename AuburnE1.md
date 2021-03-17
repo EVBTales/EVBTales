@@ -437,6 +437,6 @@ _Deceiver!_
 
 ## **End of Episode 1**
 
-Next Episode - To Come
+[Next Episode](AuburnE2.md)
 
 [Back](Auburn.md)
