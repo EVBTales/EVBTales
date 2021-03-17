@@ -2,11 +2,7 @@
 
 # Auburn Episode 3
 
----
-
 ## News
-
----
 
 “Keep your sword up, Rowen! Never let it sag like that!” Carden yells at you from the sidelines. You and Onyx are facing off in a duel meant to help you relearn how to use a sword. Onyx clearly has more skill than you do. However the fact that Onyx’s usal weapon is a bow makes it a little bit more even ground. “Angle your body away, Rowen! Not like that, the other way!” 
 
@@ -31,20 +27,28 @@ Ever since Nasall, Carden has been acting very strange, agitated and almost aggr
 “What was up with that anyway?” You ask. “Kieren said something about a loss of honor?”
 
 “We saved the Fallendawn clan from a no-win scenario a few years ago. They were surrounded by a goblin hoard with three of their clan injured and we helped them without their permission, which they saw as a loss of honor since they neither requested nor wanted help with their plight.” Sacha answers. “You knew that it was a loss of honor and offered to overlook it and call it a teaming up, but they didn’t agree, saying their honor was already lost.”
-	“That seems a little silly.” You note. Everyone shrugs, kind of agreeing that it was, but it was really just the way of things. 
-	“And because Kieren challenged you, that led to even more lost honor on their part.” Fable added. “Makes it all even more silly.”
-	As darkness approaches, your meal is ready and soon after everyone lays down to sleep. You had slept quite a bit the previous night in Nasall, so you don’t feel very sleepy. Once everyone is asleep, you decide to pull out the crystal flower you had gotten from the centaur and look it over once more. In the light of the dying fire, the crystal sends shards of light in every direction, letting the light shimmer across its surface before releasing it once more. Where there was once one bloom on the stem now a smaller bud as well. This flower of pure crystal had somehow grown in the complete darkness of Aspen’s saddle bag. You return it to Aspen’s saddlebag then return to your seat next to the dying fire. 
+
+“That seems a little silly.” You note. Everyone shrugs, kind of agreeing that it was, but it was really just the way of things. 
+
+“And because Kieren challenged you, that led to even more lost honor on their part.” Fable added. “Makes it all even more silly.”
+
+As darkness approaches, your meal is ready and soon after everyone lays down to sleep. You had slept quite a bit the previous night in Nasall, so you don’t feel very sleepy. Once everyone is asleep, you decide to pull out the crystal flower you had gotten from the centaur and look it over once more. In the light of the dying fire, the crystal sends shards of light in every direction, letting the light shimmer across its surface before releasing it once more. Where there was once one bloom on the stem now a smaller bud as well. This flower of pure crystal had somehow grown in the complete darkness of Aspen’s saddle bag. You return it to Aspen’s saddlebag then return to your seat next to the dying fire. 
 
 The night air isn’t all that cool, but the heat from the fire is still pleasant and the light it gives off in combination with the light of the almost full moon sets you a little more at ease. You lay down and look up at the millions of stars speckling the night sky, wondering just how many there were and if you had ever known anything about what lies beyond. 
 
-You should just give up. You know you won’t win this. There is nothing for you. The voice has gotten stronger, more sure of itself and now able to speak in full thoughts and sentences. But what it says never makes any sense. You weren’t lying about anything, and the people around you sure knew you even if you didn’t know them as well as you used to. You are happy to call them your friends. They have been taking care of you. And what are you even trying to win? What should you give up according to the voice?
+_You should just give up. You know you won’t win this. There is nothing for you._ The voice has gotten stronger, more sure of itself and now able to speak in full thoughts and sentences. But what it says never makes any sense. You weren’t lying about anything, and the people around you sure knew you even if you didn’t know them as well as you used to. You are happy to call them your friends. They have been taking care of you. And what are you even trying to win? What should you give up according to the voice?
 
 As thoughts continue rattling through your head, they turn once more toward Carden. You knew Carden’s concern for you was valid, everything you have experienced in the last few days of your memory have seemed just as real as other moments. So how come you remember a conversation with Carden that you never had? And could you really talk with monsters, or even understand them? It all seems real enough and has even saved you and your clan a couple times.
-	“Can’t sleep?” You look over and see Onyx sitting upright and looking at you across the dim fire, casting weird shadows. 
-	“Just a lot on my mind.” You say. “You should probably try to go back to sleep yourself. 
-	“Have I ever told you why I joined this clan?”
-	“Not that I remember.” Onyx doesn’t laugh at your joke, but continues on. 
-	“I’ve always dreamt of adventure. Even when I was little. That seems to be what keeps this clan together sometimes. Dreams. We all secretly dream to do something big together someday. Fable asked me to join the clan after I helped you all kill an earth dragon near my home that was filling our river with many landslides. I felt like the odd one out, so at first I declined. Before you all left my village, however, you came and talked to me about how you and Fable had wanted to be Monster Hunters since before you can remember, especially as monster attacks became more common. You told me that you saw that I had the same drive and wanted me to join. I sure wish I knew what it meant to be a Monster Hunter back then.”
+
+“Can’t sleep?” You look over and see Onyx sitting upright and looking at you across the dim fire, casting weird shadows. 
+
+“Just a lot on my mind.” You say. “You should probably try to go back to sleep yourself. 
+
+“Have I ever told you why I joined this clan?”
+
+“Not that I remember.” Onyx doesn’t laugh at your joke, but continues on. 
+
+“I’ve always dreamt of adventure. Even when I was little. That seems to be what keeps this clan together sometimes. Dreams. We all secretly dream to do something big together someday. Fable asked me to join the clan after I helped you all kill an earth dragon near my home that was filling our river with many landslides. I felt like the odd one out, so at first I declined. Before you all left my village, however, you came and talked to me about how you and Fable had wanted to be Monster Hunters since before you can remember, especially as monster attacks became more common. You told me that you saw that I had the same drive and wanted me to join. I sure wish I knew what it meant to be a Monster Hunter back then.”
 
 “Do you regret joining us?”
 
@@ -143,7 +147,7 @@ Morning is excruciatingly slow to come. After a few hours of restless tossing an
 
 “I don’t understand.” You whisper to the still night air. “What you are saying makes no sense to me.” 
 
-The voice stops. For the first night in a week, there is silence. You don’t understand?
+The voice stops. For the first night in a week, there is silence. _You don’t understand?_
 
 “Why are you calling me these things? Who are you? Why do you wish me so much evil?”
 
