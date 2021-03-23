@@ -10,7 +10,7 @@ It is my endeavor that every week I will post another chapter or short story of 
 
 I hope you enjoy the content that I am producing and it raises your spirits in this tough time.
 
-[Episode of the Week](AuburnE2.md)
+[Episode of the Week](AuburnE3.md)
 
 [Spotlight Story](Auburn.md)
 
