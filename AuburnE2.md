@@ -419,6 +419,6 @@ Walking over to Aspen, you gently place the flower into the saddle bag, not want
 
 ## **End of Episode 2**
 
-Next Episode - To Come
+[Next Episode](AuburnE3.md)
 
 [Back](AuburnS1.md)
