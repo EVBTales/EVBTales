@@ -1,8 +1,8 @@
 [Back](AuburnS1.md)
 
-#Episode 4
+# Episode 4
 
-##Memories
+## Memories
 
 The darkness is not peaceful. Darkness is where the eyes watch you, red eyes peeking from their hidden holes like bloody stars in the night sky. The darkness is cold and damp. Water drops plink into hidden pools somewhere in the mirk. The darkness is not still. The sound of shifting creatures and darker shadows zipping through the darkness alert you to the beholders of those watching eyes. But the darkness also keeps you from beholding what monsters lurk within it. You can witness the signs that you aren’t alone here, but the soul-wrenching corruptions that live here are hidden to your blinded eyes. 
 
