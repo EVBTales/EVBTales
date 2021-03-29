@@ -52,7 +52,7 @@ You shrug, leaving the door open and returning to the bed. “As good as I can b
 
 “I think everyone feels that way right now. Fable is starting to feel the pressure of being the leader. Carden never likes traveling through Kadon. Onyx is, well, Onyx.” Sacha sighs. “And of course, you passing out and falling off Aspen, that is just a reminder that you are different, which changes the whole group. Don’t get me wrong, we are all glad you are okay and that you weren’t hurt falling off, but everything feels different.”
 
-“It isn’t my fault.” You murmur. Lier! It’s all your fault! Guilt begins sneaking in. 
+“It isn’t my fault.” You murmur. _Lier! It’s all your fault!_ Guilt begins sneaking in. 
 
 “Oh, of course not. There is no guilt that you should carry about what has happened, but nonetheless, things have changed and our team is struggling to keep things together. I’m not sure I will be enough to keep this group together, like I usually do when we hit a rough patch.” Sacha’s head drops. “I fear that if one more thing happens, our clan will fall to pieces and all the people we would have helped will suffer because of it.”
 
