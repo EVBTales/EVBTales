@@ -108,7 +108,7 @@ Everyone eats the breakfast that Emery has prepared for you and sets out for Dra
 
 The lagoon which lies about a mile from the village sitting near the base of a tall mountain is larger than any of the rivers you have seen so far, but you could easily walk around it without much time passing. Few fishing boats are out on the water. The clan takes the time to walk all the way around the lagoon looking for any clues as to what could be causing the fishing drought, but with little luck. The only tracks you find are those of the fisherman and of the local wildlife that lives near the water. Looking up to the mountain, you notice that there is a river trickling down its side which appears to be filling the lagoon.
 
-!(Lagoon)[DragonflyLagoon.jpg]
+![Lagoon](DragonflyLagoon.jpg)
 
 “This lagoon is filled from the mountain, isn’t it?” You ask. 
 
@@ -180,7 +180,7 @@ The night wears on and the others lay down to sleep, but you don’t even try. T
 
 That’s when all goes silent. You look up and around, startled by the sudden quiet, the voice in your head finally hushing. Finally, you can hear the gentle rushing of the river before you and the crackle of the fire slowly dying. You stand and walk around a moment, making sure that something wasn’t horribly wrong. When you return to where you had been sitting, you find a stag has been watching you from across the river. 
 
-!(Peryton)[Peryton.jpg]
+![Peryton](Peryton.jpg)
 
 “You are far from home.” You hear it say in a sad and gentle voice. 
 
