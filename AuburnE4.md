@@ -310,6 +310,7 @@ The quick footfalls continue. It takes all of your strength to open your eyes. A
 
 “I will come back as soon as I can. I promise.” You yell back before leading the clan off towards the direction you hope is Doln.
 
+## *End of Episode 4*
 
 Next Episode - To Come
 
