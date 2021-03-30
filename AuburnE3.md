@@ -315,6 +315,6 @@ In the early afternoon, you begin to feel something off. Not with the group this
 
 ---
 
-Next Episode - To Come
+[Next Episode](AuburnE4.md)
 
 [Back](AuburnS1.md)
